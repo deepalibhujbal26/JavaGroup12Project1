@@ -1,0 +1,20 @@
+Hello All,
+
+I have created a github repository for Java Group Project.
+you can follow below instruction and let me know if you face any issue.
+
+1.open terminal
+2.navigate to the folder where we keep all our java projects.
+ Example : I keep all my java files here
+      cd IdeaProjects
+3. Run this in terminal "git clone https://github.com/deepalibhujbal26/JavaGroup12Project1.git"
+4. Open JavaGroup12Project1 in intellij
+5. Open Example1.java
+6. Add System.out.println("hello yourname"); and Run the program.
+7. Run this in terminal "git add Example1.java"
+8. Run this in terminal "git commit -m " My first java program Example1"
+9. Run this in terminal "git push"
+
+Note: this will get us started with github Shared Project and once we all confirm then
+we can divide one program each and push to git hub Repo
+
