@@ -26,7 +26,7 @@ public class Program8 {
                 }
             }
 
-            System.out.println("The Final Output:");
+            System.out.println("The Final Output: ");
             System.out.println("The Minimum number in given array " + min);
             System.out.println("The Maximum number in given array " + max);
         }
