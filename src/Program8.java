@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/* Maximum and minimum number in the array? */
+/*  Find the Maximum and minimum number in the array? */
 
 public class Program8 {
 
@@ -25,7 +25,6 @@ public class Program8 {
                     max=number[i];
                 }
             }
-
             System.out.println("The Final Output:");
             System.out.println("The Minimum number in given array " + min);
             System.out.println("The Maximum number in given array " + max);
