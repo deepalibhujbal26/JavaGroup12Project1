@@ -8,13 +8,18 @@ you can follow below instruction and let me know if you face any issue.
  Example : I keep all my java files here
       cd IdeaProjects
 3. Run this in terminal "git clone https://github.com/deepalibhujbal26/JavaGroup12Project1.git"
-4. Open JavaGroup12Project1 in intellij
-5. Open Example1.java
-6. Add System.out.println("hello yourname"); and Run the program.
-7. Run this in terminal "git add Example1.java"
-8. Run this in terminal "git commit -m " My first java program Example1"
-9. Run this in terminal "git push"
+ (if you receive error that say's project already exist, then ignore this as you might have already cloned the project)
+4. Run in terminal "cd JavaGroup12Project1"
+5. Run in terminal "git status"
+6. Run in terminal "git pull"
+7. Open JavaGroup12Project1 in intellij with File -> Open
+8. Open Example1.java
+9. Add System.out.println("hello yourname"); and Run the program.
+10. Run this in terminal "git add Example1.java"
+11. Run this in terminal "git commit -m " My first java program Example1"
+12. Run this in terminal "git push"
+
+(If you face access issue while pushing, please share your github username or email, so I can add you as a collabarator)
 
 Note: this will get us started with github Shared Project and once we all confirm then
-we can divide one program each and push to git hub Repo
-
+we can divide one program each and push to git hub Repo.
